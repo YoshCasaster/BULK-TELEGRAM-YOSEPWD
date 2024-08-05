@@ -1,16 +1,19 @@
 # Hi 👊 Aku YoshCassaster
-### Tujuan saya membuat Aplikasi ini, karena saya keculitan save satu per satu no kontak, dan ini saya buat untuk mempermudah pekerjaan saya loh
-### Oh iya, sedikit ⚡ Fun fact saya pikir saya bisa membantu semua orang ternyata hanya lulusan kelas Karyawan 😂 yang ilmunya tidak dapat katanya hehe maaf.
-### Semakin direndahkan Semakin Senang.
+### Tujuan saya membuat Aplikasi ini karena cape jari saya wkwk
 
-## CONVERT TEXT TO vCARD | YosepWD
+## BULK TELEGRAM SENDER | YosepWD
 
 1. **Open Aplikasi**
-2. **Masukan Nama dan No berawalan +62......**
-   ![Convert](./6152078844207676962.jpg)
-3. **Klik Tombol Convert**
-4. **Jika sudah ter-convert, file contak akan berada di DEKSTOP**
+2. **Masukan API ID & API HASH**
+3. **Tutorial bisa lihat di website berikut**
+   [Get API](https://mrismanaziz.medium.com/cara-mendapatkan-app-id-dan-api-hash-telegram-fda81fd10599)
+3. **Jika sudah, masukan no telemu dan no tele nasabahmu berawalan +62**
+4. **Jika sudah Masukan pesan yang ingin kamu kirim, lalu SIKATT**
+
+## SPEK APLIKASI
+🍀 **Auto Create Session Telegram ketika kita open aplikasi**
+🍀 **Auto Delete Session Telegram ketika kita close aplikasi**
    
 ## LINK DOWNLOAD
 
-[Download Here](https://drive.google.com/file/d/1bzg9_KsYdBMt126tWKs0R2wymYc7byBQ/view?usp=sharing)
+[Download Here](https://drive.google.com/file/d/1YnoEAT1K554F1sNNXel0PzrDyHjbUNPa/view?usp=sharing)
