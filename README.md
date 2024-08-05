@@ -4,6 +4,7 @@
 ## BULK TELEGRAM SENDER | YosepWD
 
 1. **Open Aplikasi**
+![Aplikasi](./sstm.jpg)
 2. **Masukan API ID & API HASH**
 3. **Tutorial bisa lihat di website berikut**
    [Get API](https://mrismanaziz.medium.com/cara-mendapatkan-app-id-dan-api-hash-telegram-fda81fd10599)
